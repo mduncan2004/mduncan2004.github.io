@@ -10,3 +10,5 @@ Hi! My name is Michael, I'm a student at Carnegie Mellon University pursuing a M
 - Co-Instructor of 98-099: Problem Solving through Solving Problems at CMU
 - CMIMC Problem Writing Committee
 
+Web dev is hard :c
+
